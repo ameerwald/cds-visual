@@ -1,6 +1,9 @@
 numpy
-pandas
+pandas 
+tqdm
 matplotlib
 scikit-learn
 tensorflow-cpu
 opencv-python
+tensorflow-hub
+
