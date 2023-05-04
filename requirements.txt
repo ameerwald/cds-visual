@@ -1,9 +1,12 @@
-numpy
-pandas 
-tqdm
 matplotlib
 scikit-learn
 tensorflow-cpu
+<<<<<<< HEAD
 opencv-python
 tensorflow-hub
 
+=======
+numpy
+pandas
+opencv-python
+>>>>>>> 6188260af5aab00189ea1e754ca79f4c89303e38
